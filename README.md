@@ -138,9 +138,3 @@
 <br/><br/>
 ---
 <br/>
-
-[![card](https://github-readme-stats.vercel.app/api?username=kaicbosco&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![kaicbosco](https://github-readme-stats.vercel.app/api/top-langs/?username=kaicbosco&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
